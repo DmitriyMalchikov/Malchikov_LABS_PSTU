@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Preza2\Source.cpp(62,41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Preza2\Source.cpp(64,41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Preza2\Source.cpp(98,28): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Preza2.vcxproj -> C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Preza2\x64\Debug\Preza2.exe
