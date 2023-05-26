@@ -1,0 +1,6 @@
+﻿  LabsClass13.2.cpp
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\LabsClass13.2\LabsClass13.2.cpp(12,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\LabsClass13.2\LabsClass13.2.cpp(43,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\LabsClass13.2\LabsClass13.2.cpp(84,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\LabsClass13.2\LabsClass13.2.cpp(100,60): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  LabsClass13.2.vcxproj -> C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\LabsClass13.2\x64\Debug\LabsClass13.2.exe
