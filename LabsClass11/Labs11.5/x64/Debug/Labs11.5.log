@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Labs11.5\Source.cpp(11,6): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Labs11.5\List.h(39,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Labs11.5\List.h(33,22): message : во время компиляции функции-члена класс шаблон "List<Pair>::List(int)"
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Labs11.5\Source.cpp(9,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "List<Pair>::List(int)"
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Labs11.5\Source.cpp(9,15): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Pair>"
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Labs11.5\List.h(53,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Labs11.5\List.h(50,22): message : во время компиляции функции-члена класс шаблон "T List<T>::srednee(void)"
+          with
+          [
+              T=Pair
+          ]
+C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Labs11.5\Source.cpp(13,10): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::srednee(void)"
+          with
+          [
+              T=Pair
+          ]
+  Labs11.5.vcxproj -> C:\Users\Щищ\OneDrive\Рабочий стол\Новая папка\Labs11.5\x64\Debug\Labs11.5.exe
